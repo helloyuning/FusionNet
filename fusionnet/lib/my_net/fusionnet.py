@@ -605,7 +605,7 @@ class FusionNet(BaseBackbone):
 
         d_model = 256
         dim_feedforward = 1024
-        encoder_layers_num = 3
+        encoder_layers_num = 1
         n_head = 8
         pos_embedding_type = 'sine'
         w, h = 256, 256
