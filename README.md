@@ -19,7 +19,6 @@ Please refer to this link for instructions(CDPN:https://github.com/LZGMatrix/CDP
 
 Train
 To start training, enter the directory EPro-PnP-6DoF/tools, and run:
-
 python main.py --cfg /PATH/TO/CONFIG  # configs are located in EPro-PnP-6DoF/tools/exp_cfg
 
 Test
